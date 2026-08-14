@@ -1,0 +1,417 @@
+{
+    "text_block_list": [
+        {
+            "text": "Rhein Kraft pun resmi ditunjuk sebagai mentor Fusaichi Pandora\nKeesokan harinya―"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Trainer-san... aku butuh saranmu sekarang !!",
+            "choice_data_list": [
+                "Wah, cepet banget ! ...Ada apa ?",
+                "Wah, cepet banget ! ...Ada apa ?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Kalau dipikir-pikir, selama di Tim <Ascella>, aku selalu jadi anggota paling junior.... Jadi aku hampir nggak punya pengalaman untuk mengajari orang lain."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Gimana ya... aku bingung harus mulai darimana～!\nRasanya bahkan aku sendiri gatau apa yang belum aku pahami...!",
+            "choice_data_list": [
+                "B-begitu ya... Hmm..."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Untuk sekarang, aku akan memberimu materi dasar-dasar dan tips sebagai seorang mentor. Tapi―"
+        },
+        {
+            "name": "<username>",
+            "text": "Untuk sekarang, aku akan memberimu materi dasar-dasar dan tips sebagai seorang mentor. Tapi―"
+        },
+        {
+            "name": "<username",
+            "text": "Lagipula, kalau soal 'Umamusume membimbing Umamusume',\n....bukankah ada orang yang tepat untuk kamu mintai saran ?"
+        },
+        {
+            "name": "<username>",
+            "text": "Lagipula, kalau soal 'Umamusume membimbing Umamusume',\n....bukankah ada orang yang tepat untuk kamu mintai saran ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh ? ....Oh !!!\n...Ooohhh～...!!"
+        },
+        {
+            "name": "Umamusume Kecil",
+            "text": "Mbaak～～!!!\nKami main kesana dulu ya～!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, hati-hati ya.\nJangan pergi terlalu jauh―eh ?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Hehe, Kraft bener-bener nulis di buku harian pertukaran ini.\nHmm, coba liat...? ......!!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kraft, hebat ya. Sampai ditunjuk jadi mentor !\nKalau butuh bantuan atau saran, jangan sungkan ya～!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Dari ceritamu.... sepertinya dia memang anak yang berbakat dari awal.\nMakanya, mungkin dia jarang merasa \"Aku mau coba ini !\"."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau dari awal terasa mudah, dia jadi nggak pernah benar-benar merasakan kepuasan atau serunya berusaha.... Akhirnya dia pun jadi jarang punya keinginan dari dirinya sendiri untuk mencoba atas kemauannya sendiri."
+        },
+        {
+            "name": "Cesario",
+            "text": "Jadi, gimana kalo mulai dengan mencari tau apa yang bisa membuat dia berpikir \"Aku mau coba !\" ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ehm... jadi...\nAku ingin mulai dari menu latihan yang ingin kamu coba dulu, Pandora-san. Ada ide ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh, boleh pilih apa aja nih !? Yeayy～☆\nKalau gitu... aku pengen lari keliling bareng Kuu-chan-senpai !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hari ini cuacanya lagi bagus banget, udaranya juga lumayan sejuk ♡\nGimana kalau kita lari ke arah pegunungan ? Pasti enak !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Rute pegunungan di lintasan luar ya.... Oke, ayo !\nSekalian nanti aku ajarin cara menghadapi tanjakan ya !"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau ingin membangkitkan rasa \"Aku ingin mencoba\" dalam dirinya....\nPenting juga untuk mendengarkan cerita darinya―"
+        },
+        {
+            "name": "Cesario",
+            "text": "Beri dia banyak pujian, sampai dia berpikir \"Eh, ternyata ini menyenangkan !\", \"Kalau begitu, mungkin aku ingin mencoba lebih banyak lagi\". Itu juga bagus kan ?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh, satu hal lagi... meskipun sederhana, gimana kalau sesekali kasih hadiah ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Seriusan ? Beneran senyaman itu ?\nBerjemur di puncak.... emang sehebat itu ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya, emang keren banget ! Makanya, ayo berusaha sedikit lagi !\nSebenernya sih, rutenya cuma sampai sini, tapi kita lanjut sedikit lagi ya ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Nnnggghhh～.... Yoshhaaaa aku lakuin～!!\nJangan remehin seorang jenius～～!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hehe....! Berhasil～～～!"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Begitu rupanya. Berarti, berkat saran dari Cesario-san...\nkamu bisa menjalankan peranmu sebagai mentor dengan baik."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya ! Kurasa, kami berdua sudah jauh lebih berusaha dibandingkan sebelumnya... setidaknya begitu menurutku ! ...Mungkin !!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Ahahaha ! Kamu harusnya lebih percaya diri, Kraft.\nBahkan, belakangan ini dia latihan angkat dumbbell di kamar asrama."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Perubahannya benar-benar luar biasa !\n―Walaupun, sejujurnya aku berharap dia jangan ninggalin dumbbellnya berserakan, terus malah kesandung dan heboh sendiri."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "....Dari ceritamu itu, sepertinya dia memang cukup sulit ditangani.\nApa itu tidak mengganggu persiapanmu sendiri, Kraft-san ?"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Aku memang kalah di Hanshin Umamusume Stakes.\nJadi, aku sendiri bertekad untuk membalasnya di Victoria Mile."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hehe, soal itu nggak perlu khawatir ! Latihan bersama Pandora-san juga benar-benar membantuku berkembang."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Karena itu, aku nggak akan kalah. Jarak ini gak akan kuserahkan kepada siapapun. Ratu Mile musim semi... pasti aku !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(....Lagi pula, aku juga ingin memperlihatkannya kepada Pandora-san―)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Huft, huft.... Nnnggghhhh.....!!!\n....Haaah!!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Haah.... Pandora-san, menurutmu gimana ?\nForm-ku, nggak berantakan, kan ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Iya, bagus banget ! Form-mu rapih banget!\nTerus, Senpai... ototmu kuat banget ya...\nPantes aja akselerasimu pas baru start sekencang itu～."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya, betul ! Pandora-san juga termasuk tipe yang mengincar posisi depan.\nJadi, mau latihan ini bareng ? Bebannya ringan dulu juga boleh."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hmm... nggak, yang ini aja udah cukup ! Liat aja deh Kuu-chan-senpai～.\nAku juga lumayan kuat lho !"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe.\n....Keliatannya, perkembangan Kraft-san dan Pandora-san cukup lancar ya ?",
+            "choice_data_list": [
+                "Iya, hubungan mereka terjalin dengan baik.",
+                "Iya, hubungan mereka terjalin dengan baik."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Hubungan mereka jadi jauh lebih akrab dari yang kukira...\nBelakangan ini, rasanya Kraft selalu menemani Pandora.",
+            "choice_data_list": [
+                "(Oh iya, sementara itu....)"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Hubungan mereka jadi jauh lebih akrab dari yang kukira...\nBelakangan ini, rasanya Kraft selalu menemani Pandora.",
+            "choice_data_list": [
+                "(Oh iya, sementara itu....)"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": ".....? Ada apa ?",
+            "choice_data_list": [
+                "Ah, bukan―"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hup, Nnnngggghhhhh.....!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "HYAAAAAAAH!"
+        },
+        {
+            "name": "<username>",
+            "text": "Kawakami Princess.... hari ini pun masih menjalani latihannya dengan semangat juang yang luar biasa. Pasti karena ia terus membawa kekaguman King dalam hatinya.",
+            "choice_data_list": [
+                "....Nggak kamu sapa ?",
+                "....Nggak kamu sapa ?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Dengar ya, di Oaks nanti dia itu rival Pandora-san, tau ?\nJelas aku nggak mungkin menyapanya begitu saja.",
+            "choice_data_list": [
+                "Memang sih... tapi―",
+                "Memang sih... tapi―"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Nggak apa-apa. \n....Justru itu yang terbaik buat dia."
+        },
+        {
+            "name": "King Halo",
+            "text": "Keanggunan yang harus kutunjukkan. Semangatku juga.\nAku rasa, semuanya sudah kusampaikan lewat tindakanku."
+        },
+        {
+            "name": "King Halo",
+            "text": "Itu saja sudah cukup.\n....Dengan itu, Kawakami Princess pasti bisa terus berlari.",
+            "choice_data_list": [
+                "....Begitu ya",
+                "....Begitu ya"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "(King tidak selalu berada disisinya. Ia hanya menunjukkan siapa dirinya.\nTapi meski begitu, keberadaan King pasti sudah terukir dalam hati anak itu.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Di sisi lain, Kraft lebih memilih untuk selalu mendampingi Pandora.\n...Ternyata, ikatan sesama Umamusume, begitu juga cara kekaguman itu diteruskan, memang punya banyak bentuk.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Di sisi lain, Kraft lebih memilih untuk selalu mendampingi Pandora.\n...Ternyata, ikatan sesama Umamusume, begitu juga cara kekaguman itu diteruskan, memang punya banyak bentuk.)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Sip ! Kalau begitu, Pandora-san ! Mohon bantuannya untuk latihan lari bersama sebagai persiapan terakhir menuju Victoria Mile !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Oke, oke～♪\nAku nggak bakal nahan diri lho, Kuu-chan-senpai～？"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hehe, memang itu yang kuharapkan !\nKalau begitu.... ayo kita mulai !"
+        },
+        {
+            "name": "Kraft & Pandora",
+            "text": "Huft, huft, huft, huft....!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Waduh, aku terus keduluan rebut posisi depan ! Serius deh, Kuu-chan-senpai... dari start sampai dapet posisi ideal itu mulus banget～!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Nggghhh..... tapi sekarang sudah masuk akhir balapan !\nMulai dari sini, aku bakal nyalip. Hyaaaaaa!!!!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Masih belum !!! ―Nggak akan aku kasih lewat !!\nHyaaaaahhhhhーー!!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Hah !? Aduh.... susah banget disalip～～....!!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Puhah ! Hah, huft, haaahh....\n....Gila... aku sama sekali gabisa nyalip ke depan...."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Pyuhh..... Makasih ya, Pandora-san !\nKerja bagus hari ini."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku masih mau lanjut latihan sebentar lagi.... Kamu duluan saja ya !\nPastikan kamu dapat istirahat yang cukup ya～!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh !? S-serius ? Masih mau lanjut ? Habis ini juga ?\nWahh.... Senpai bener-bener gigih ya...."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": ".....Nggak, serius deh...."
+        },
+        {
+            "text": "Dan hari demi hari pun berlalu― akhirnya saat itupun tiba.\nRhein Kraft pun menghadapi balapan Victoria Mile\n"
+        },
+        {
+            "name": "Komentator",
+            "text": "Di bawah langit yang kurang bersahabat, kepada siapa Dewi Kemenangan― 'Victoria' akan menganugerahkan cahayanya ? Victoria Mile, penentuan sang Ratu Musim Semi."
+        },
+        {
+            "name": "Komentator",
+            "text": "Setelah menjuarai NHK Mile Cup tahun lalu sekaligus menorehkan dua gelar mahkota yang tak biasa, Rhein Kraft kini menjadi unggulan nomor satu."
+        },
+        {
+            "name": "<username>",
+            "text": "Ini adalah balapan pertamamu di lintasan yang kurang bagus setelah 13 kali balapan. Tapi, tidak usah terlalu dipikirkan, Kraft. Tetap seperti biasanya aja."
+        },
+        {
+            "name": "<username>",
+            "text": "Ini adalah balapan pertamamu di lintasan yang kurang bagus setelah 13 kali balapan. Tapi, tidak usah terlalu dipikirkan, Kraft. Tetap seperti biasanya aja."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya, terima kasih banyak !\n.....Sip. Waktunya aku berangkat !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "―Pandora-san.\nAku akan memperlihatkan penampilan terbaikku !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hehe, iya ! Aku udah gak sabar banget nih ♡\nAyo tunjukin kemampuanmu, Kuu-chan-senpai !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hei, Trainer. Habis ini kita makan crepe yuk ! Crepe ♡\nBuat ngerayain kemenangan Kuu-chan-senpai ! Aku tau tempat yang enak kok !"
+        },
+        {
+            "name": "<username>",
+            "text": "Habis selesai nanti... ? Aduh kamu ini. Balapannya aja belum mulai. Masih terlalu cepat buat rayain kemenangan."
+        },
+        {
+            "name": "<username>",
+            "text": "Habis selesai nanti... ? Aduh kamu ini. Balapannya aja belum mulai. Masih terlalu cepat buat rayain kemenangan."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Haa～? Ngomong apa sih kamu, Trainer !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Soalnya Kuu-chan-senpai udah sehebat itu, tapi tetap kerja keras kayak gitu.\nJelas aja yang bakal menang itu Kuu-chan-senpai !",
+            "choice_data_list": [
+                "....Memang, Kraft sudah bekerja keras. Tapi..."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Meski begitu.... bukan berarti pasti bisa menang.\nBegitulah dunia balapan, Pandora."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hmmmm......?"
+        },
+        {
+            "name": "Komentator",
+            "text": "Suasana dipenuhi ketegangan.... dan kini, Umamusume terakhir―\ntelah memasuki gerbang start."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(....Tenang. Semuanya baik-baik aja.\nSeperti biasa, sesuaikan timingnya―)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Maju !!!)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(.....Ugh―!?)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Huh.... Eh ? Apa yang barusan terjadi―!)"
+        },
+        {
+            "name": "Komentator",
+            "text": "Kurang dari 200m, Daring Heart mulai mengejar ! Dari sisi luar datang Air Messiah !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ah.... Eh ? Bentar, gak mungkin―!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Rhein Kraft terus berjuang sekuat tenaga, tapi akselerasinya mulai tertahan ! Air Messiah naik ke posisi kedua. Namun, pemenangya adalah―!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Sungguh diluar dugaan, sang favorit nomor satu, Rhein Kraft pertama kalinya gagal finis di lima besar ! Ia gagal menunjukkan performa terbaiknya dan harus puas finis di posisi kesembilan !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Sem...sembilan....? T-tunggu dulu!\nTunggu deh, itu nggak mungkin !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Padahal Senpai sudah berjuang sekuat tenaga...\nTapi kenapa...."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "......Ini bohongan kan."
+        }
+    ]
+}

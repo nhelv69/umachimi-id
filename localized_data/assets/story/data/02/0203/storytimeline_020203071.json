@@ -1,0 +1,365 @@
+{
+    "text_block_list": [
+        {
+            "name": "Komentator",
+            "text": "Demikianlah, Winning Live dari para Umamusume yang berlaga di balapan utama hari ini, Oaks !"
+        },
+        {
+            "name": "Komentator",
+            "text": "Para gadis yang akan memperebutkan Triple Tiara kini akan melangkah menuju musim gugur. Mari kita nantikan perkembangan mereka selanjutnya di Shuko Sho !",
+            "choice_data_list": [
+                "...Kamu sudah kembali. Kerja bagus, Pandora"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Yo～ ...Aduh, serius deh, liat nggak ? Kawakami-senpai !\nDi mana-mana semuanya ngomongin betapa hebatnya dia !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Duh～ Padalah harusnya semua itu jadi milikku !\nDibilang super hebat, dipuji-puji terus, dan jadi ratu juga !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Semuanya, milikku―....",
+            "choice_data_list": [
+                "....Pandora ?"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": ".....Aku mau balik .....ke ruang tunggu."
+        },
+        {
+            "name": "<username>",
+            "text": "(Pandora tampak sedang memikirkan sesuatu....\nHabis itu, dia hampir tidak mengatakan apa-apa.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Bukan cuma hari itu. Bahkan saat latihan keesokan harinya―)"
+        },
+        {
+            "name": "<username>",
+            "text": "Loh.... Pandora ? Bukannya sudah kubilang kalau hari ini jadwal istirahatmu...? Kamu baru aja selesai balapan, jadi mending istirahat dulu kan ?"
+        },
+        {
+            "name": "<username>",
+            "text": "Loh.... Pandora ? Bukannya sudah kubilang kalau hari ini jadwal istirahatmu...? Kamu baru aja selesai balapan, jadi mending istirahat dulu kan ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku cuma mau liat ...Nggak boleh ?",
+            "choice_data_list": [
+                "Nggak.... bukannya gak boleh sih."
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kalau gitu, biarkan aku disini..."
+        },
+        {
+            "name": "<username>",
+            "text": "(Seperti yang dia bilang, Pandora terus berada disana.\n...Dia terus memperhatikan sesuatu.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Apa itu sebenarnya.... masih belum kuketahui, tapi―)"
+        },
+        {
+            "name": "King Halo",
+            "text": "―Fuuh ! Kurasa, hari ini cukup sampai disini dulu.\nGimana ?",
+            "choice_data_list": [
+                "Iya. Cukup sampai di sini untuk hari ini",
+                "Iya. Cukup sampai di sini untuk hari ini"
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Fiuuh～! Kerja bagus hari ini !\nWah～ Hari ini panas banget ya."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Musim panas juga udah dekat. Ugh, badanku lengket semua...\nPengen cepet-cepet mandi～"
+        },
+        {
+            "name": "<username>",
+            "text": "(Pandora ternyata nonton sampai selesai ya.\n....Hmm ?)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Pandora ternyata nonton sampai selesai ya.\n....Hmm ?)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "―Senpai."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Anu... bisa ngobrol sebentar ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "...Iya, nggak masalah. Aku lap keringat dulu sebentar ya !"
+        },
+        {
+            "name": "<username>",
+            "text": "(Pandora.... apa ada sesuatu yang ingin dia bicarakan dengan Kraft ?\nKeliatannya, dia kepikiran banget.... apa dia baik-baik aja...)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Pandora.... apa ada sesuatu yang ingin dia bicarakan dengan Kraft ?\nKeliatannya, dia kepikiran banget.... apa dia baik-baik aja...)"
+        },
+        {
+            "name": "???",
+            "text": "Trainer Tim <Ascella>.",
+            "choice_data_list": [
+                "Wah !?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ups... hehe, maaf bikin kamu kaget !",
+            "choice_data_list": [
+                "Kalian ini.... temannya Pandora―",
+                "Kalian ini.... temannya Pandora―"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Iya. Rekan tim sebelumnya♪"
+        },
+        {
+            "name": "North Flight",
+            "text": "―Sejujurnya, aku cukup terkejut.\nKamu benar-benar... banyak berubah ya, Pandora-chan."
+        },
+        {
+            "name": "North Flight",
+            "text": "Dan pastinya, ke arah yang jauh lebih baik.\nAku jadi harus berterima kasih kepada Tim <Ascella> !"
+        },
+        {
+            "name": "<username>",
+            "text": "Berterima kasih ya... Padahal, aku belum bisa membantunya meraih hasil yang dia inginkan. Sebagai Trainer, justru aku masih merasa banyak kekurangan..."
+        },
+        {
+            "name": "<username>",
+            "text": "Berterima kasih ya... Padahal, aku belum bisa membantunya meraih hasil yang dia inginkan. Sebagai Trainer, justru aku masih merasa banyak kekurangan..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Memang, kekalahan itu mengecewakan, dan pasti berat juga buat dia....\nTapi meski begitu, Trainer-san."
+        },
+        {
+            "name": "North Flight",
+            "text": "Iya. Soalnya, Pandora-chan dulu―\nsering kali memilih untuk melarikan diri."
+        },
+        {
+            "name": "North Flight",
+            "text": "Seperti setelah Oka Sho. Dia bilang gak mau nonton ulang balapan yang membuatnya kalah."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Bagi jenius seperti dia, kekalahan itu mungkin suatu hal yang sulit diterima― Tapi lebih dari itu, mungkin dia merasa nggak perlu untuk melihatnya kembali."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Dia nggak perlu sampai menghadapi hal-hal yang enggak menyenangkan atau memalukan ....Nggak ada alasan baginya untuk berusaha sejauh itu demi \"mengejar kemenangan\"."
+        },
+        {
+            "name": "North Flight",
+            "text": "Tapi, dia sudah berubah ...Aku melihatnya sendiri.\nBaik dirinya sebelum Oaks, dirinya saat berlari, dan ....dirinya saat ini."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Benar juga. Pandora yang sekarang, aku yakin――"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Rasanya, kayak ada yang mengganjal ....atau nyesek gitu ?\n...Udah dari tadi nggak hilang-hilang."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "....Ya."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Biasanya aku tinggal bilang \"Udah, udah, malu juga, lupain aja\" tapi...\n...kali ini nggak bisa. Nggak kayak biasanya."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Entah kenapa.... dari tadi aku terus kepikiran soal itu―"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "....Hei, senpai. ....Kuu-chan-senpai.\nAku, sudah berlari di Oaks."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya.... aku melihatnya."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku beneran berlari. Walau... semuanya jadi kacau dan nggak ngerti lagi apa yang terjadi. Tapi aku terus berlari dengan gigih. Beneran... sampai akhir, aku terus berlari―"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "...Padahal, aku udah berlari..."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ya―"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Nyesek, ya... Nyesek banget.\nKamu benar-benar ingin menang kan, Pandora-san ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "...Nyesek... Aku... pengen menang...\n....Ngh―!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hng... hiks... uuuuuuuhh...!!\nU... u... uwaaaaaahhh....!!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "―Aku kesel banget !! Kesel... kesel, kesel banget ! Aku pengen menang !!\nAku tuh pengen menang !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku pengen menang.... Aku pengen kamu lihat aku menang――!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya.... iya. Terima kasih, Pandora-san."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Karena kamu sudah berlari sambil membawa perasaanku juga.\nTerima kasih..."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Uuh... sial... sial, sial...\nSialaaaaaan....!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hngk... haaah, gawat. Besok mukaku pasti jelek banget nih."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "N-nggak apa-apa kok ! Pandora-san selalu imut !\nE-emmmm... iya ! Love kok, love !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "...Ya, menangislah sepuasnya, rasakan semua kekecewaan itu... lalu...\nKalau sudah, ayo kita bangkit bersama, Pandora-san."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Bareng...? Sama Senpai ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "――Aku juga pernah loh. Kalah berkali-kali, sampai rasanya nyesek banget...\nPernah juga aku berpikir, \"Aku udah nggak sanggup lagi\"."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Waktu itu, aku benar-benar terpuruk... sebelum Hanshin Umamusume Stakes."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hah !? Tapi, waktu balapan itu, Senpai―!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya... tapi berhasil bangkit. Aku nggak menyerah.\nDan karena itulah, aku berhasil meraihnya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Nggak... mungkin malah sebaliknya ya ? \"Sekali lagi\", \"sekali lagi\" ....\nKarena aku dan Trainer-san sudah bertekad, \"Kita nggak akan menyerah sampai berhasil meraihnya.\""
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Nggak menyerah... sampai berhasil meraihnya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Benar. Karena itulah―cara kami, Tim <Ascella> !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(...Begitu, ya... Jadi begitu.\nMakanya waktu itu.... aku sampai segitunya―)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Jadi, ya ? Kali ini, ayo kita lakukan bersama, Pandora-san !\nMusim gugur nanti, aku di Sprinters Stakes dan kamu di Shuka Sho !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "...Fuha. Jadi semacam balas dendam gitu～?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Kayak gitu ! ....Nggak apa-apa. Kita masih bisa, masih bisa terus maju ! Kalau kita bersama !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "....Mhm. ....Iya."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ya, benar juga ! Yoshhaaaaa～～!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku juga nggak akan menyerah !! Aku nggak akan nyerah lagi, apapun yang terjadi !! Apa pun yang terjadi, pokoknya nggak akan "
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Terus, aku bakal menaaaang !! Di Shuka Sho musim gugur nanti, pasti !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "―Jadi, kali ini aku pasti akan berhasil !\nLihat aku menang nanti ya, Senpai ....Janji !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Hehe..... Ya. Janji !"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku pasti datang buat nonton, jadi tunjukkan padaku ya.\n...Aku benar-benar nggak sabar menantikannya !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Okaaay, serahin aja padaku ☆\nSoalnya, bagaimanapun juga aku ini―"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Jenius ♡"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ahahahahaha, itu dia !\nKuu-chan-senpai, emang yang terbaikーーー♡"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(...Hei, Senpai. \"Sekali lagi\", lalu \"sekali lagi\",\nAku nggak akan menyerah. Aku bakal berusaha sekuat tenaga... dan aku一)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Aku ingin... jadi seperti Kuu-chan-senpai)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Aku juga... pengen berlari kayak Senpai―!)"
+        },
+        {},
+        {
+            "name": "Fusaichi Pandora",
+            "text": "....Senpai ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kuu-chan-senpai ?\n....Ketiduran kah ?"
+        }
+    ]
+}

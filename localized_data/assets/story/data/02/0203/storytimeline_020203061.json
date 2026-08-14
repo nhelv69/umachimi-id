@@ -1,0 +1,348 @@
+{
+    "text_block_list": [
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh....? Kuu-chan Senpai masih istirahat ?\nPadahal katanya hari ini dia bakal kembali latihan seperti biasa―",
+            "choice_data_list": [
+                "Iya, rencananya memang begitu, tapi―",
+                "Iya, rencananya memang begitu, tapi―"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Tadi siang kebetulan aku lihat dia, dan kelihatannya dia masih cukup kelelahan. Jadi, aku sendiri yang menyuruhnya untuk beristirahat."
+        },
+        {
+            "name": "<username>",
+            "text": "Tadi siang kebetulan aku lihat dia, dan kelihatannya dia masih cukup kelelahan. Jadi, aku sendiri yang menyuruhnya untuk beristirahat."
+        },
+        {
+            "name": "King Halo",
+            "text": "Begitu....yah, dia memang sudah balapan tiga bulan berturut-turut semenjak Takatsunomiya Kinen. Mungkin sekarang gak ada salahnya dia beristirahat lebih lama untuk memulihkan kondisinya."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh.... begitu ya. Hmmm......",
+            "choice_data_list": [
+                "Ada apa, Pandora ?",
+                "Ada apa, Pandora ?"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Nggak, cuma.... teman sekamar senpai kan lagi cuti sekolah dan nggak ada di sini kan ? Berarti, kalau di asrama, senpai sendirian dong ? Hmm....",
+            "choice_data_list": [
+                "(.....Mereka benar-benar jadi dekat ya.)"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "―Menu latihan hari ini memang kubuat cukup padat untuk persiapan menuju Oaks. Tapi kalau kamu bisa menyelesaikan semuanya, kamu boleh selesai lebih awal lho."
+        },
+        {
+            "name": "<username>",
+            "text": "―Menu latihan hari ini memang kubuat cukup padat untuk persiapan menuju Oaks. Tapi kalau kamu bisa menyelesaikan semuanya, kamu boleh selesai lebih awal lho."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "......! Aku kerjain ! Bakal kuselesaiin semuanya !!\nJangan remehin si jenius ini !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Terus, aku bakal nemuin Kuu-chan-senpai～～!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hngh ! Hngh ! Hngh ! Nnngghhhhh.....!!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hup, hup hup, hup, hup, hup...!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hyaaaaaahhhhhー!!\n.....Yess～! Waktu terbaikku !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Trainer, itu artinya !?",
+            "choice_data_list": [
+                "Iya, iya. Latihanmu hari ini udah selesai !",
+                "Iya, iya. Latihanmu hari ini udah selesai !"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Makasih ! Makasih banyak !!\nMakasiiiih～～!!!"
+        },
+        {
+            "name": "Umamusume D",
+            "text": "Wah.... dia beneran selesai lebih awal.\nAnak itu hebat banget ya."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Kuuuh～.... dia memang berbakat banget seperti biasanya....!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Yah, mungkin itu juga salah satu alasannya...\nSepertinya mulai ada sesuatu yang tumbuh dalam dirinya, bukan ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Huuuuuhhh.... aneh ya...\nKok aku jadi lebih gampang lelah ya...?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Senpaiiiii !!\nHalooooーー☆"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ehh !? Pandora-san !?\nLatihannya gimana !?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kuberesin secepat kilat ♪ Terus langsung kesini buat jenguk Senpai !\nSekarang gak kesepian lagi kan ? Malah seneng banget kan ? Langsung seger lagi kan !?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "....Yah, kira-kira begitu. Tapi serius deh... Kuu-chan-senpai, kamu nggak apa-apa ?Ini pertama kalinya Senpai finis di luar lima besar kan ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Soalnya, gimana ya..... padahal Senpai mau menghadapi balapan...\nTapi Senpai malah banyak bantuin aku ini-itu..."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh ? Ah, enggak kok ! Sama sekali bukan salah Pandora-san.\nKalo soal balapannya.... yah, di awal aku sempat nggak fokus dan semacamnya..."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Justru sebaliknya, karena aku terus bersama Pandora-san...\nAku―"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": ".....Aaaahhhh～! Kesel banget !!\nAku malah nunjukin sisi nggak kerennya ke kamu～."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hah !? N-nggak, bukan gitu !\nAku sama sekali nggak nganggep Senpai kayak gitu !?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Soalnya.... soalnya aku liat sendiri ! Senpai selama ini !\nSetiap hari Senpai kerja keras banget ! Bener-bener luar biasa...."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "....Hehe. Makasih ya, Pandora-san"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi, justru karena itulah aku ingin menunjukannya padamu.\nAku ingin kamu melihatnya... dan berharap itu bisa jadi sedikit dorongan untukmu."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Dorongan....?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya. Untuk menghadapi Oaks."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku memilih NHK Mile Cup, bukan Oaks.\nDan soal pilihan itu.... aku nggak menyesalinya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi.... aku juga dulu pernah memimpikan panggung Triple Tiara.\nAku pernah bermimpi untuk menang di Oaks.... dan perasaan itu juga nyata."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Karena itu.... anu, mungkin ini terdengar egois, tapi !\nOaks-nya Pandora-san, yang selama ini sudah berjuang keras bersamaku―"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Aku ingin memberikan semua dukungan yang kubisa untukmu.\n....Walaupun akhirnya malah gagal sih, hehe."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "...Kuu-chan-senpai―"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(...Apa aku juga bakal bersinar ya ?)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Kalau aku menang..... Kalau aku menang di Oaks.)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Mata Senpai.... apa bakal bersinar lagi kalau aku menang―?)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Keesokan harinya, setelah latihan ....Tidak seperti biasanya, Fusaichi Pandora masih berada di sana―lalu perlahan berjalan menghampiriku.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Keesokan harinya, setelah latihan ....Tidak seperti biasanya, Fusaichi Pandora masih berada di sana―lalu perlahan berjalan menghampiriku.)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": ".......―anu, Trainer."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kalau aku mau menang di Oaks.... apa yang harus aku lakukan ?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wah, wah.... anak yang dulu selalu bilang \"Aku ini jenius\" dan \"Ya jelas aku bakal menang\", sekarang sampai bisa ngomong gitu ya ?"
+        },
+        {
+            "name": "<username>",
+            "text": "―Tentu. Masih banyak yang bisa kita lakukan sebelum hari balapan tiba.\nKali ini, ayo kita jalani dengan serius, Fusaichi Pandora !"
+        },
+        {
+            "name": "<username>",
+            "text": "―Tentu. Masih banyak yang bisa kita lakukan sebelum hari balapan tiba.\nKali ini, ayo kita jalani dengan serius, Fusaichi Pandora !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": ".....Hm ! Oke, bakal kulakuin !!"
+        },
+        {
+            "name": "<username>",
+            "text": "Pertama, kurasa kamu sudah sering mendengar ini, tapi bakatmu.... potensi yang kamu miliki memang luar biasa. Kita harus memanfaatkan potensi itu semaksimal mungkin."
+        },
+        {
+            "name": "<username>",
+            "text": "Pertama, kurasa kamu sudah sering mendengar ini, tapi bakatmu.... potensi yang kamu miliki memang luar biasa. Kita harus memanfaatkan potensi itu semaksimal mungkin."
+        },
+        {
+            "name": "<username>",
+            "text": "Dengan kata lain, bisa dibilang kamu kalah di balapan-balapan sebelumnya karena kamu 'belum mengerahkan kemampuanmu sepenuhnya'. Yang terpenting adalah―'terus berlari dengan sungguh-sungguh sampai akhir'.",
+            "choice_data_list": [
+                "Jadi.... ayo berjuang sampai akhir, Pandora !"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Harus tahan banting, ya～ Berarti, yang penting itu tekad.... atau mental ?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Kalo ngomongin mental sama kegigihan.... ya pasti dia !"
+        },
+        {
+            "name": "King Halo",
+            "text": "―Kuperingatkan dulu ya. Aku nggak sebaik Kraft-san lho ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "O-ooooh.... oke !! Mohon bantuannyaー!!"
+        },
+        {
+            "name": "<username>",
+            "text": "Mulai sekarang, manfaatkan setiap latihan tanding dengan Kraft sebaik mungkin ! Perhatikan seberapa banyak tenaga yang kamu simpan dan kapan saatnya kamu mulai bergerak. Gunakan kepalamu baik-baik."
+        },
+        {
+            "name": "<username>",
+            "text": "Mulai sekarang, manfaatkan setiap latihan tanding dengan Kraft sebaik mungkin !\nPerhatikan seberapa banyak tenaga yang kamu simpan dan kapan saatnya kamu mulai bergerak. Gunakan kepalamu baik-baik."
+        },
+        {
+            "name": "<username>",
+            "text": "Terutama karena rival terbesarmu nanti di Oaks, Kawakami Princess punya gaya yang mirip dengan Kraft. Dia tipe yang bisa mempertahankan kecepatan bagusnya dalam waktu yang cukup lama.",
+            "choice_data_list": [
+                "Kuncinya kamu harus bisa melampauinya !"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Terutama karena rival terbesarmu nanti di Oaks, Kawakami Princess punya gaya yang mirip dengan Kraft. Dia tipe yang bisa mempertahankan kecepatan bagusnya dalam waktu yang cukup lama.",
+            "choice_data_list": [
+                "Kuncinya kamu harus bisa melampauinya !"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hiiih, haaah.... s-siap, siaaaap  !!"
+        },
+        {
+            "name": "<username>",
+            "text": "―Oke, kurasa sudah cukup evaluasi kita hari ini.\nSetelah ini, sebenernya kita mau bahas perkiraan jalannya Oaks untuk Pandora, tapi..."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "T-Trainer-san !\nSepertinya Pandora-san sudah nggak kuat lagi...!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Huwaaa～～... hehehe.....",
+            "choice_data_list": [
+                "....Kraft, tolong antar dia ke asrama",
+                "....Kraft, tolong antar dia ke asrama"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Baik....! Pandora-san, sini, sini !\nPegang bahuku ya. Iya, begitu ! Ayo～ satu, dua....!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ya ampun... ini benar-benar kayak 'kerja keras pertama dalam hidupnya' ya.",
+            "choice_data_list": [
+                "Iya juga.... tapi, dia udah berusaha keras kok.",
+                "Iya juga.... tapi, dia udah berusaha keras kok."
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Perasaan yang pertama kali ia rasakan. Usaha yang pertama kali ia lakukan.\nSedikit demi sedikit, semuanya terus bertambah seiring berlalunya hari―"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Huuuhh～...... Oke ! Bisa nih..... Yup, aku bisa !)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kuu-chan-senpai. ―Aku akan menang."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Lihat ya.... pasti kumenangkan !"
+        },
+        {
+            "name": "Komentator",
+            "text": "Nah, balapan utama hari ini, Oaks sebentar lagi akan dimulai ! Diantara para peserta, yang paling mencuri perhatian adalah Umamusume yang hingga kini belum terkalahkan―"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Oh.... Kawakami-senpai, halo～\nBaru G1 pertama tapi udah jadi pusat perhatian ya. Nggak gugup atau apa gitu ?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, Pandora-san ! Fufu, terima kasih atas perhatiannya.\n....Tapi, aku sama sekali nggak apa-apa kok."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Karena hari ini, aku datang untuk merebutnya.\nTiara untukku―sang Putri !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Sebagai seorang Putri !! Aku harus mulia, anggun, dan tangguh !!\nAkan kuhajar kalian semua sekaligus !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "....Ahaha."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Wih, berani juga―!"
+        }
+    ]
+}
